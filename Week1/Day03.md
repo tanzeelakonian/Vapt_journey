@@ -16,9 +16,9 @@ router connects networks and pass data between them
 what is subnet
 subnetting means splitting the number of hosts that can fit in the network, number that is used to calculate the hosts is called subnet mask, which is written in same formatt as IP address
 How subnet uses IP address in three diffrent ways?
-1.network address
-2.host address
-3.default gate way
+1.network address- is the network address the device is in if example 192.168.1.15 is ip address then network address would be 192.168.1.0
+2.host address- to know the host i.e., 192.168.1.15
+3.default gate way- ir helps device talk to other networks usually uses 1 or 254 ex:192.168.1.1
 
 What is ARP?
 Address resolution protocol, which helps identify mac address using ip addresses.it will keep the log of mac address of  other devices
